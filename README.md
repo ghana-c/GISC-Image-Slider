@@ -2,7 +2,7 @@
 
 > Latest Version v2.0.0
  
-*GISC Image Slider* is most beautiful and easy to use image slider with unique visual effects. 
+GISC Image Slider is most beautiful and easy to use image slider with unique visual effects. 
 
 GISC Image Slider is a click-to-enlarge-and-view-slider wizard to create awesome image slider
 without extra coding. 
