@@ -1,8 +1,8 @@
-# [GISC Image Slider]
+# GISC Image Slider
 
-> - Latest Version v2.0.0
+> Latest Version v2.0.0
  
-[GISC Image Slider] is most beautiful and easy to use image slider with unique visual effects. 
+*GISC Image Slider* is most beautiful and easy to use image slider with unique visual effects. 
 
 GISC Image Slider is a click-to-enlarge-and-view-slider wizard to create awesome image slider
 without extra coding. 
@@ -52,14 +52,15 @@ $('.image-list').GImageSlider();
 
 You may set GImageSlider Options with `$('.image-list').GImageSlider(options)`.
 
-##### 1. imageCount
+#### imageCount
 * Type : `Boolean`
 * Default : `false`
 
 If `true`, `imageCount` shows current image number out of total image count, at the top left corner of the image.
 e.g. `1/10`
 
-##### imageTitle
+
+#### imageTitle
 * Type : `Boolean`
 * Default : `false`
 
@@ -67,20 +68,23 @@ If true, `imageTitle` shows current image description at the bottom of the image
   - NOTE : You need to provide title attribute for `<li>` tags for which you want to show image description.
   - e.g. `<li title="This is dummy Image Description">http://www.example.com/image1.png</li>`
 
-##### animation
+
+#### animation
 * Type : `String`
 * Default : `fade`
 
 You can use `animation` to change images transitions.
   - Supported Transitions : `fade` `slide`
   
-##### enableLog
+
+#### enableLog
 * Type : `Boolean`
 * Default : `false`
 
 In Case of any issue, you can set `enableLog` to `true` and debug it from browser console.
 
-### NOTE :
+
+### Note
 
 1. Requires jQuery (greater than v2.0)
 2. You can use jQuery Mobile to use Swipe left, Swipe right on various devices.
@@ -93,6 +97,6 @@ In Case of any issue, you can set `enableLog` to `true` and debug it from browse
 * Safari
 * Opera
 
-## Author
+### Author
 
 Ghanashyam Chaudhari (mr.ghchaudhari@gmail.com)
